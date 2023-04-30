@@ -1,0 +1,15 @@
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\bin\Debug\net6.0\ข้อ 1.exe
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\bin\Debug\net6.0\ข้อ 1.deps.json
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\bin\Debug\net6.0\ข้อ 1.runtimeconfig.json
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\bin\Debug\net6.0\ข้อ 1.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\bin\Debug\net6.0\ข้อ 1.pdb
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.csproj.AssemblyReference.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.AssemblyInfoInputs.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.AssemblyInfo.cs
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.csproj.CoreCompileInputs.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\refint\ข้อ 1.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.pdb
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ข้อ 1.genruntimeconfig.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\HW4\ข้อ 1\obj\Debug\net6.0\ref\ข้อ 1.dll
